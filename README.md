@@ -1,1 +1,1 @@
-# issues
+# issues此工程主要用于记录开发过程中常见的坑及解决办法，包括Java、Spring、Web容器、IDE、并发、MySQL、MQ、Redis、MongoDB等方面。
